@@ -1,0 +1,12 @@
+{
+    "INFOR_DBCPATH": "",
+    "BODY_DBCPATH": "",
+    "CH_DBCPATH": "",
+    "PT_DBCPATH": "",
+    "HV_DBCPATH": "",
+    "DIAG_DBCPATH": "",
+    "LEGACY_DBCPATH": "",
+    "SAFETY_DBCPATH": "",
+    "Process": 0,
+    "Trace_sts": true
+}
